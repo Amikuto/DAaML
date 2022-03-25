@@ -239,3 +239,5 @@ dmypy.json
 # Cython debug symbols
 cython_debug/
 
+/Lesson3/sem1/ML_1.2_ПИ18-1_Коломенская.ipynb
+/Lesson3/sem1/PI18-2_Stepanov_lab_3.ipynb
