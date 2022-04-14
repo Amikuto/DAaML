@@ -17,7 +17,14 @@
             </Attribute>
           </value>
         </entry>
-        <entry key="\ML2.1\diabetes.csv">
+        <entry key="\ML4.1\WMT.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="\ML4.1\walmart_stock.csv">
           <value>
             <Attribute>
               <option name="separator" value="," />
