@@ -17,14 +17,7 @@
             </Attribute>
           </value>
         </entry>
-        <entry key="\ML4.1\WMT.csv">
-          <value>
-            <Attribute>
-              <option name="separator" value="," />
-            </Attribute>
-          </value>
-        </entry>
-        <entry key="\ML4.1\walmart_stock.csv">
+        <entry key="\ML4.2\WMT.csv">
           <value>
             <Attribute>
               <option name="separator" value="," />
